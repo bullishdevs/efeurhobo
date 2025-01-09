@@ -1,10 +1,3 @@
-## Full Stack Developer & Cybersecurity Enthusiast 👾
-
-> **Hacking the code** to unlock infinite possibilities.  
-> The matrix isn't just a movie—it's my reality.
-
----
-
 ## ⚡ **Skills**
 
 I don’t just write code—I **exploit** it, **build** on it, and **break** barriers. Here’s what I’m working with:
@@ -16,7 +9,7 @@ I don’t just write code—I **exploit** it, **build** on it, and **break** bar
 
 ---
 
-## 🔗 **Currently Working On: [Empire_V1](https://github.com/efeurhobo/Empire_V1)**
+## 🔗 **Currently Working On: [Empire_X](https://github.com/efeurhobo/Empire_X)**
 
 🔨 **Empire_V1** is an **innovative WhatsApp bot** built with **Bailey's** and **Node.js**. It’s designed to automate interactions, manage tasks, and streamline communication on WhatsApp, all while providing a seamless and secure user experience. Whether you’re building automated responses or integrating third-party services, **Empire_V1** offers powerful capabilities that can transform any WhatsApp number into a fully-fledged bot.
 
