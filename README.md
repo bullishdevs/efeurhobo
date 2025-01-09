@@ -9,19 +9,6 @@ I don’t just write code—I **exploit** it, **build** on it, and **break** bar
 
 ---
 
-## 🔗 **Currently Working On: [Empire_X](https://github.com/efeurhobo/Empire_X)**
-
-🔨 **Empire_V1** is an **innovative WhatsApp bot** built with **Bailey's** and **Node.js**. It’s designed to automate interactions, manage tasks, and streamline communication on WhatsApp, all while providing a seamless and secure user experience. Whether you’re building automated responses or integrating third-party services, **Empire_V1** offers powerful capabilities that can transform any WhatsApp number into a fully-fledged bot.
-
-- **Key Features**:
-  - **Automated Conversations**: Create personalized chatbots that handle queries, provide information, or execute commands.
-  - **Task Automation**: Automate regular tasks directly within WhatsApp, such as reminders or reports.
-  - **Integration-Ready**: Easily integrates with external APIs and services for a wider range of functionalities.
-
-Feel free to **fork** the project, submit **issues**, or **contribute** to enhance its capabilities. Together, we can create even more powerful bots for WhatsApp!
-
----
-
 ## 🎯 **GitHub Stats**
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=efeurhobo&show_icons=true&hide=prs&theme=radical)
